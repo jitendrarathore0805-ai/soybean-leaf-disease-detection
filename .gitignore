@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+
+# Large ML artifacts
+artifacts/*.keras
+artifacts/*.h5
+artifacts/*.joblib
+artifacts/*.npy
+
+# OS
+.DS_Store
+Thumbs.db
