@@ -1,3 +1,4 @@
+# app url - https://soybean-leaf-disease-detection-6fnb4vjx9wr72xedyylvhv.streamlit.app/
 # Soybean Disease Detection — Streamlit
 
 This project converts the Colab **Experiment E** pipeline into a Streamlit
