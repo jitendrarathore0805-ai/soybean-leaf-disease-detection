@@ -362,14 +362,10 @@ if uploaded_file is not None:
         )
 
 
-# =========================================================
-# NO IMAGE
-# =========================================================
-
 else:
 
     st.info(
-        "👆 Upload a soybean leaf image above "
+        " Upload a soybean leaf image above "
         "to start disease detection."
     )
 
@@ -379,9 +375,7 @@ else:
     )
 
 
-# =========================================================
-# FOOTER
-# =========================================================
+
 
 st.divider()
 
